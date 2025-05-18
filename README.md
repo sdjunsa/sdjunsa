@@ -10,8 +10,8 @@
 
 ## 🌟 About Me
 - 🇰🇷 석사과정 | Mechanical Engineering, Sogang University  
-- 🔥 전문 분야 : 연소·복사 열전달 & CFD (ANSYS Fluent) · 1D 수치해석 코드 작성
-- 🤖 관심사 : PINNs, surrogate models 등 AI + CFD 융합  
+- 🔥 전문 분야 : 연소·복사 열전달 & CFD (ANSYS Fluent)
+- 🤖 관심사 : AI + CFD 융합 / CFD 기반 최적화 
 
 ## 🚀 Representative Projects
 | Year | Project | Tech Stack | Key Impact |
@@ -27,7 +27,7 @@
 - **CFD** : k‑ε , EDC·PDF 연소, DO·P‑1 복사  
 - **Heat Transfer** : 대류·복사 해석, 열교환기 설계  
 - **Programming** : 수치해석 코드
-- 
+  
 ## 🛠️ Studying
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
